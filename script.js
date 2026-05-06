@@ -17,7 +17,7 @@ function nouveauMessage() {
     document.getElementById("message").textContent = messages[random];
 }
 
-const debut = new Date("2025-01-01");
+const debut = new Date("2025-09-05");
 
 function updateTemps() {
     const maintenant = new Date();
